@@ -21,6 +21,9 @@ appended dataset combining information from eight existing training programs in 
 ## Tools 
 POWER BI (For data cleaning, data modelling, and visualization)
 
+## Sematic Model
+![Screenshot 2025-03-06 113608](https://github.com/user-attachments/assets/6a02fff7-3af9-4dc3-b4ea-a113d55a26ea)
+
 ## Data Exploratory Analysis (EDA)
 EDA was conducted to identify patterns, trends and uncover insights relevant to the project. The following EDA was done on the dataset:
 
